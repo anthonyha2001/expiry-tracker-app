@@ -2329,7 +2329,7 @@
     }
   ],
   "settings": {
-    "reminderDays": 30,
+    "reminderDays": 5,
     "recipientEmails": [
       "AnthonyHasrouny8@gmail.com"
     ]
