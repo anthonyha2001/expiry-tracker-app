@@ -1,6 +1,6 @@
 import React, { createContext, useState, useEffect, useMemo, useCallback } from 'react';
 
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'https://expiry-tracker-app.onrender.com/api';
 export const InventoryContext = createContext();
 
 export const InventoryProvider = ({ children }) => {
