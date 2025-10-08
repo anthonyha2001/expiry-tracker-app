@@ -1,10 +1,11 @@
 import React, { useState, useMemo } from 'react';
 import { useInventory } from '../hooks/useInventory.js';
 import { differenceInDays, parseISO, format } from 'date-fns';
-import { Calendar, Clock, Package, ThumbsUp, X } from 'lucide-react';
+import { ArchiveX, Calendar, Clock, Package, ThumbsUp, X } from 'lucide-react';
 
-// Categories for expiry dates
+// Categories for expiry dates, including the new 'expired' category
 const categories = {
+    expired: { label: 'Expired Items', days: 0, icon: ArchiveX, color: '#7f1d1d' }, // Dark Red
     '<1mo': { label: 'Less than 1 Month', days: 30, icon: Clock, color: 'var(--status-expired-text)' },
     '1-2mo': { label: '1-2 Months', days: 60, icon: Calendar, color: 'var(--status-near-expiry-text)' },
     '2-5mo': { label: '2-5 Months', days: 150, icon: Calendar, color: '#0E7490' },
@@ -17,27 +18,36 @@ const DashboardPage = () => {
   const [selectedCategory, setSelectedCategory] = useState(null);
 
   const categorizedItems = useMemo(() => {
-    const categorized = {
-        '<1mo': [], '1-2mo': [], '2-5mo': [], '5mo-1y': [], '>1y': []
-    };
+    // Initialize categories
+    const categorized = Object.keys(categories).reduce((acc, key) => ({ ...acc, [key]: [] }), {});
+    
     if (loading) return categorized;
 
     items.forEach(item => {
         item.expiryEntries.forEach(entry => {
             const daysUntil = differenceInDays(parseISO(entry.date), new Date());
-            if (daysUntil < 0) return; // Skip already expired
-
             const fullItemEntry = { ...item, ...entry, daysUntil };
-            
-            if (daysUntil <= categories['<1mo'].days) categorized['<1mo'].push(fullItemEntry);
-            else if (daysUntil <= categories['1-2mo'].days) categorized['1-2mo'].push(fullItemEntry);
-            else if (daysUntil <= categories['2-5mo'].days) categorized['2-5mo'].push(fullItemEntry);
-            else if (daysUntil <= categories['5mo-1y'].days) categorized['5mo-1y'].push(fullItemEntry);
-            else categorized['>1y'].push(fullItemEntry);
+
+            // CORRECTED LOGIC: Handle expired items first
+            if (daysUntil < 0) {
+                categorized.expired.push(fullItemEntry);
+            } else if (daysUntil <= categories['<1mo'].days) {
+                categorized['<1mo'].push(fullItemEntry);
+            } else if (daysUntil <= categories['1-2mo'].days) {
+                categorized['1-2mo'].push(fullItemEntry);
+            } else if (daysUntil <= categories['2-5mo'].days) {
+                categorized['2-5mo'].push(fullItemEntry);
+            } else if (daysUntil <= categories['5mo-1y'].days) {
+                categorized['5mo-1y'].push(fullItemEntry);
+            } else {
+                categorized['>1y'].push(fullItemEntry);
+            }
         });
     });
     return categorized;
   }, [items, loading]);
+  
+  const currentCategoryData = selectedCategory ? categorizedItems[selectedCategory] : [];
 
   return (
     <div>
@@ -46,7 +56,12 @@ const DashboardPage = () => {
         
         <div className="dashboard-cards-grid">
             {Object.entries(categories).map(([key, cat]) => (
-                <div key={key} className="dashboard-card" style={{'--card-color': cat.color}} onClick={() => setSelectedCategory(key)}>
+                <div 
+                    key={key} 
+                    className={`dashboard-card ${key === 'expired' ? 'expired-card' : ''}`}
+                    style={{'--card-color': cat.color}} 
+                    onClick={() => setSelectedCategory(key)}
+                >
                     <div className="card-icon"><cat.icon size={28}/></div>
                     <div className="card-content">
                         <span className="card-count">{categorizedItems[key].length}</span>
@@ -74,8 +89,8 @@ const DashboardPage = () => {
                                 </tr>
                             </thead>
                             <tbody>
-                                {categorizedItems[selectedCategory].length > 0 ? (
-                                    categorizedItems[selectedCategory]
+                                {currentCategoryData.length > 0 ? (
+                                    currentCategoryData
                                         .sort((a,b) => a.daysUntil - b.daysUntil)
                                         .map(item => (
                                         <tr key={item.id + item.addedAt}>
