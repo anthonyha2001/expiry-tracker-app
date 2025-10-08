@@ -57,7 +57,33 @@ const writeDb = (data) => {
 cron.schedule('0 9 * * *', () => {
   console.log('Running daily check for expiring items...');
   const db = readDb();
-  // ... (rest of cron job logic is unchanged)
+  const { items, settings } = db;
+  const { reminderDays, recipientEmails } = settings;
+  const today = new Date();
+  
+  const expiringItems = [];
+
+  items.forEach(item => {
+    item.expiryEntries.forEach(entry => {
+      const expiryDate = new Date(entry.date);
+      const daysUntilExpiry = (expiryDate - today) / (1000 * 60 * 60 * 24);
+
+      if (daysUntilExpiry > 0 && daysUntilExpiry <= reminderDays) {
+        expiringItems.push({
+          id: item.id,
+          description: item.description,
+          expiryDate: entry.date,
+          quantity: entry.quantity,
+        });
+      }
+    });
+  });
+
+  const notification = sendReminderEmail(recipientEmails, expiringItems);
+  if (notification) {
+    db.notifications.unshift(notification); // Add new notifications to the top
+    writeDb(db);
+  }
 });
 
 // --- API Endpoints ---
@@ -93,7 +119,6 @@ app.post('/api/settings', (req, res) => {
 });
 
 app.post('/api/import/master-list', upload.single('file'), (req, res) => {
-  // ... (logic is unchanged)
   const file = req.file;
   if (!file) return res.status(400).send('No file uploaded.');
   const db = readDb();
@@ -132,7 +157,6 @@ app.post('/api/import/master-list', upload.single('file'), (req, res) => {
 });
 
 app.post('/api/stock-update', upload.single('file'), (req, res) => {
-    // ... (logic is unchanged)
     const file = req.file;
     if (!file) return res.status(400).send('No file uploaded.');
     const db = readDb();
@@ -183,7 +207,4 @@ app.get(/^(?!\/api).*/, (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
-
-
-    
 
