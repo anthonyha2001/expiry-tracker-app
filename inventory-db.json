@@ -6,16 +6,10 @@
       "group": "HYGIENE HT",
       "salePrice": 3.33,
       "quantity": 12,
-      "expiryEntries": [
-        {
-          "date": "2025-08-12",
-          "quantity": 12,
-          "addedAt": "2025-10-08T20:39:11.335Z"
-        }
-      ],
+      "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 0,
-      "isUpdate": false
+      "pendingStockQty": 12,
+      "isUpdate": true
     },
     {
       "id": "148913",
@@ -2329,9 +2323,7 @@
     }
   ],
   "settings": {
-    "reminderDays": 5,
-    "recipientEmails": [
-      "AnthonyHasrouny8@gmail.com"
-    ]
+    "reminderDays": 30,
+    "recipientEmails": []
   }
 }
