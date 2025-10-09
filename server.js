@@ -123,6 +123,8 @@ app.post('/api/import/master-list', upload.single('file'), (req, res) => {
         group: row['Group Desc']?.toString().trim(),
         subGroup: row['Sub Group Desc']?.toString().trim(),
         brand: row['Brand Desc']?.toString().trim(),
+        purchaseNumber: row['No.']?.toString().trim(),
+        lastPurchaseDate: row['Date']?.toString().trim(),
         supplierDescription: row['Kind Desc']?.toString().trim(),
         costPrice: netCost,
         discount: discount,
