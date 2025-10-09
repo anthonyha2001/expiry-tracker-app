@@ -1,0 +1,36 @@
+{
+  "builds": [
+    {
+      "src": "api/index.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "dist"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "api/index.js"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
+```
+
+**Step 5: Update the Front-End API URL**
+
+Finally, because your front-end and back-end will be on the same domain, we can simplify the API URL.
+
+Open your `src/context/InventoryContext.jsx` file and change the `API_BASE_URL` to a relative path:
+
+```javascript
+// src/context/InventoryContext.jsx
+const API_BASE_URL = '/api'; // This is now a relative path
