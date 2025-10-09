@@ -13,6 +13,6 @@ export default defineConfig({
   server: {
     // This allows any URL ending in .ngrok-free.app to connect,
     // which is useful for testing your site on other devices.
-    allowedHosts: ['.ngrok-free.app'],
+    allowedHosts: ['.ngrok-free.dev'],
   },
 })

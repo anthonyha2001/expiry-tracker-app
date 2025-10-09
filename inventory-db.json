@@ -2335,7 +2335,9 @@
     }
   ],
   "settings": {
-    "reminderDays": 30,
-    "recipientEmails": []
+    "reminderDays": 10,
+    "recipientEmails": [
+      "anthonyhasrouny2023@gmail.com"
+    ]
   }
 }
