@@ -28,11 +28,16 @@
           "date": "2025-09-09",
           "quantity": 8,
           "addedAt": "2025-10-09T08:16:45.493Z"
+        },
+        {
+          "date": "2002-12-10",
+          "quantity": 8,
+          "addedAt": "2025-10-09T09:08:10.437Z"
         }
       ],
       "notes": "",
-      "pendingStockQty": 8,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "148914",
@@ -42,8 +47,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "148915",
@@ -53,8 +58,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "145057",
@@ -64,8 +69,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "151103",
@@ -75,8 +80,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "150512",
@@ -86,8 +91,8 @@
       "quantity": 32,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 32,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "153921",
@@ -97,8 +102,8 @@
       "quantity": 9,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 9,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "136224",
@@ -108,8 +113,8 @@
       "quantity": 18,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 18,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "136225",
@@ -119,8 +124,8 @@
       "quantity": 9,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 9,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144492",
@@ -130,8 +135,8 @@
       "quantity": 32,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 32,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "159705",
@@ -141,8 +146,8 @@
       "quantity": 24,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 24,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "003065",
@@ -152,8 +157,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "003067",
@@ -163,8 +168,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160382",
@@ -174,8 +179,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160383",
@@ -185,8 +190,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160384",
@@ -196,8 +201,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160385",
@@ -207,8 +212,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160386",
@@ -218,8 +223,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "100827",
@@ -229,8 +234,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "100829",
@@ -240,8 +245,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "100826",
@@ -251,8 +256,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "080239",
@@ -262,8 +267,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "080240",
@@ -273,8 +278,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "152678",
@@ -284,8 +289,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "145770",
@@ -295,8 +300,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "145061",
@@ -306,8 +311,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "141325",
@@ -317,8 +322,8 @@
       "quantity": 24,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 24,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "038128",
@@ -328,8 +333,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "098084",
@@ -339,8 +344,8 @@
       "quantity": 10,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "100375",
@@ -350,8 +355,8 @@
       "quantity": 40,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 8,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "136418",
@@ -361,8 +366,8 @@
       "quantity": 40,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 40,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "136234",
@@ -372,8 +377,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "136420",
@@ -383,8 +388,8 @@
       "quantity": 40,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 40,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "127162",
@@ -394,8 +399,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "003227",
@@ -405,8 +410,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "003226",
@@ -416,8 +421,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "102321",
@@ -427,8 +432,8 @@
       "quantity": 10,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109273",
@@ -438,8 +443,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 4,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "104469",
@@ -449,8 +454,8 @@
       "quantity": 30,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163127",
@@ -460,8 +465,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163128",
@@ -471,8 +476,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163129",
@@ -482,8 +487,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163130",
@@ -493,8 +498,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "147367",
@@ -504,8 +509,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "048545",
@@ -515,8 +520,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "027528",
@@ -526,8 +531,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "048546",
@@ -537,8 +542,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "064551",
@@ -548,8 +553,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "080678",
@@ -559,8 +564,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "080680",
@@ -570,8 +575,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109811",
@@ -581,8 +586,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "048544",
@@ -592,8 +597,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "033151",
@@ -603,8 +608,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "020963",
@@ -614,8 +619,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109818",
@@ -625,8 +630,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "115464",
@@ -636,8 +641,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "142250",
@@ -647,8 +652,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "121503",
@@ -658,8 +663,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "074242",
@@ -669,8 +674,8 @@
       "quantity": 24,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 24,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "021152",
@@ -680,8 +685,8 @@
       "quantity": 72,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 72,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "126419",
@@ -691,8 +696,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144077",
@@ -702,8 +707,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144079",
@@ -713,8 +718,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144074",
@@ -724,8 +729,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144076",
@@ -735,8 +740,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000702",
@@ -746,8 +751,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "053023",
@@ -757,8 +762,8 @@
       "quantity": 30,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 30,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "156478",
@@ -768,8 +773,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "106753",
@@ -779,8 +784,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "106324",
@@ -790,8 +795,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "049862",
@@ -801,8 +806,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163131",
@@ -812,8 +817,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "047643",
@@ -823,8 +828,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "070670",
@@ -834,8 +839,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "069398",
@@ -845,8 +850,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "085823",
@@ -856,8 +861,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163132",
@@ -867,8 +872,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163133",
@@ -878,8 +883,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "152679",
@@ -889,8 +894,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "127060",
@@ -900,8 +905,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "125665",
@@ -911,8 +916,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "161070",
@@ -922,8 +927,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "159073",
@@ -933,8 +938,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "161071",
@@ -944,8 +949,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000727",
@@ -955,8 +960,8 @@
       "quantity": 36,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 36,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134189",
@@ -966,8 +971,8 @@
       "quantity": 45,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 45,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134190",
@@ -977,8 +982,8 @@
       "quantity": 36,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 36,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134191",
@@ -988,8 +993,8 @@
       "quantity": 45,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 45,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "149900",
@@ -999,8 +1004,8 @@
       "quantity": 50,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 50,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134192",
@@ -1010,8 +1015,8 @@
       "quantity": 36,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 36,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "083976",
@@ -1021,8 +1026,8 @@
       "quantity": 4,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 4,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "142918",
@@ -1032,8 +1037,8 @@
       "quantity": 5,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 5,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "061736",
@@ -1043,8 +1048,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "113655",
@@ -1054,8 +1059,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "126638",
@@ -1065,8 +1070,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "129530",
@@ -1076,8 +1081,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "079169",
@@ -1087,8 +1092,8 @@
       "quantity": 8,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 8,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "081209",
@@ -1098,8 +1103,8 @@
       "quantity": 5,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 5,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096150",
@@ -1109,8 +1114,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000285",
@@ -1120,8 +1125,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000287",
@@ -1131,8 +1136,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "059137",
@@ -1142,8 +1147,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000289",
@@ -1153,8 +1158,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "126639",
@@ -1164,8 +1169,8 @@
       "quantity": 8,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 8,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "118702",
@@ -1175,8 +1180,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "118703",
@@ -1186,8 +1191,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "124017",
@@ -1197,8 +1202,8 @@
       "quantity": 4,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096152",
@@ -1208,8 +1213,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "090643",
@@ -1219,8 +1224,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "090644",
@@ -1230,8 +1235,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "123001",
@@ -1241,8 +1246,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096154",
@@ -1252,8 +1257,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "124018",
@@ -1263,8 +1268,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134873",
@@ -1274,8 +1279,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "085031",
@@ -1285,8 +1290,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "100273",
@@ -1296,8 +1301,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "000295",
@@ -1307,8 +1312,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "155509",
@@ -1318,8 +1323,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109280",
@@ -1329,8 +1334,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109283",
@@ -1340,8 +1345,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109284",
@@ -1351,8 +1356,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "145772",
@@ -1362,8 +1367,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109285",
@@ -1373,8 +1378,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109286",
@@ -1384,8 +1389,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160623",
@@ -1395,8 +1400,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160624",
@@ -1406,8 +1411,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "155510",
@@ -1417,8 +1422,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109288",
@@ -1428,8 +1433,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109290",
@@ -1439,8 +1444,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109291",
@@ -1450,8 +1455,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "144494",
@@ -1461,8 +1466,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109292",
@@ -1472,8 +1477,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "109293",
@@ -1483,8 +1488,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "155512",
@@ -1494,8 +1499,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "099257",
@@ -1505,8 +1510,8 @@
       "quantity": 9,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 9,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "082095",
@@ -1516,8 +1521,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "057985",
@@ -1527,8 +1532,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "099258",
@@ -1538,8 +1543,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "099259",
@@ -1549,8 +1554,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "071187",
@@ -1560,8 +1565,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134874",
@@ -1571,8 +1576,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134875",
@@ -1582,8 +1587,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134876",
@@ -1593,8 +1598,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "009903",
@@ -1604,8 +1609,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "009850",
@@ -1615,8 +1620,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "039807",
@@ -1626,8 +1631,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "163134",
@@ -1637,8 +1642,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157816",
@@ -1648,8 +1653,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157819",
@@ -1659,8 +1664,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157820",
@@ -1670,8 +1675,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160387",
@@ -1681,8 +1686,8 @@
       "quantity": 5,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 5,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157821",
@@ -1692,8 +1697,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157822",
@@ -1703,8 +1708,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157823",
@@ -1714,8 +1719,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "157824",
@@ -1725,8 +1730,8 @@
       "quantity": 2,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 2,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "159707",
@@ -1736,8 +1741,8 @@
       "quantity": 5,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 5,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "110564",
@@ -1747,8 +1752,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "102329",
@@ -1758,8 +1763,8 @@
       "quantity": 3,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "111081",
@@ -1769,8 +1774,8 @@
       "quantity": 5,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 5,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "158005",
@@ -1780,8 +1785,8 @@
       "quantity": 4,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 4,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "158006",
@@ -1791,8 +1796,8 @@
       "quantity": 4,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 4,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "158007",
@@ -1802,8 +1807,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160620",
@@ -1813,8 +1818,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "153924",
@@ -1824,8 +1829,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "156479",
@@ -1835,8 +1840,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "153925",
@@ -1846,8 +1851,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160621",
@@ -1857,8 +1862,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "140980",
@@ -1868,8 +1873,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "140981",
@@ -1879,8 +1884,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "140983",
@@ -1890,8 +1895,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "139808",
@@ -1901,8 +1906,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "140984",
@@ -1912,8 +1917,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "139636",
@@ -1923,8 +1928,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096162",
@@ -1934,8 +1939,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096163",
@@ -1945,8 +1950,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096164",
@@ -1956,8 +1961,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096987",
@@ -1967,8 +1972,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "106170",
@@ -1978,8 +1983,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "124019",
@@ -1989,8 +1994,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "095296",
@@ -2000,8 +2005,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "124020",
@@ -2011,8 +2016,8 @@
       "quantity": 4,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096710",
@@ -2022,8 +2027,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "096711",
@@ -2033,8 +2038,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "102325",
@@ -2044,8 +2049,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "124022",
@@ -2055,8 +2060,8 @@
       "quantity": 16,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 16,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "106171",
@@ -2066,8 +2071,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "126842",
@@ -2077,8 +2082,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "126843",
@@ -2088,8 +2093,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "160622",
@@ -2099,8 +2104,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "134877",
@@ -2110,8 +2115,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072098",
@@ -2121,8 +2126,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072096",
@@ -2132,8 +2137,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072100",
@@ -2143,8 +2148,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072099",
@@ -2154,8 +2159,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072097",
@@ -2165,8 +2170,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "079583",
@@ -2176,8 +2181,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "072095",
@@ -2187,8 +2192,8 @@
       "quantity": 24,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 24,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "059820",
@@ -2198,8 +2203,8 @@
       "quantity": 30,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "105844",
@@ -2209,8 +2214,8 @@
       "quantity": 15,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 3,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "162495",
@@ -2220,8 +2225,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "162485",
@@ -2231,8 +2236,8 @@
       "quantity": 12,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 12,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "150288",
@@ -2242,8 +2247,8 @@
       "quantity": 10,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 10,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "146700",
@@ -2253,8 +2258,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "146244",
@@ -2264,8 +2269,8 @@
       "quantity": 50,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 50,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "129692",
@@ -2275,8 +2280,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "133118",
@@ -2286,8 +2291,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "129696",
@@ -2297,8 +2302,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "129698",
@@ -2308,8 +2313,8 @@
       "quantity": 6,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 6,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "155764",
@@ -2319,8 +2324,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     },
     {
       "id": "146246",
@@ -2330,8 +2335,8 @@
       "quantity": 20,
       "expiryEntries": [],
       "notes": "",
-      "pendingStockQty": 20,
-      "isUpdate": true
+      "pendingStockQty": 0,
+      "isUpdate": false
     }
   ],
   "settings": {
