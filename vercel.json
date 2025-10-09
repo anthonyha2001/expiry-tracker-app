@@ -23,14 +23,4 @@
     }
   ]
 }
-```
 
-**Step 5: Update the Front-End API URL**
-
-Finally, because your front-end and back-end will be on the same domain, we can simplify the API URL.
-
-Open your `src/context/InventoryContext.jsx` file and change the `API_BASE_URL` to a relative path:
-
-```javascript
-// src/context/InventoryContext.jsx
-const API_BASE_URL = '/api'; // This is now a relative path
