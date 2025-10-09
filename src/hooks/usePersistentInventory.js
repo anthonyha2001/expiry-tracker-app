@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from 'react';
 
-const API_BASE_URL = 'http://localhost:3001/api';
+const API_BASE_URL = 'https://expiry-tracker-app.onrender.com/api';
 
 export const usePersistentInventory = () => {
   const [items, setItems] = useState([]);
