@@ -28,7 +28,7 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 /* ===== 3. MAIN LAYOUT & STRUCTURE ===== */
 .app-header { background-color: var(--bg-surface); border-bottom: 1px solid var(--border-color); padding: 0 2rem; }
 .main-nav { display: flex; height: 64px; align-items: center; }
-.nav-list { display: flex; align-items: center; gap: 0.5rem; list-style: none; margin: 0; padding: 0; }
+.nav-list { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; list-style: none; margin: 0; padding: 0; }
 .nav-link { display: flex; align-items: center; gap: 0.5rem; padding: 0.5rem 1rem; border-radius: var(--border-radius); font-size: 0.875rem; font-weight: 500; text-decoration: none; color: var(--text-secondary); transition: all var(--transition-speed) ease; }
 .nav-link:hover { background-color: var(--bg-main); color: var(--text-primary); }
 .nav-link.active { background-color: var(--brand-primary-light); color: var(--brand-primary); font-weight: 600; }
@@ -72,7 +72,7 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 /* ===== 10. Operations Page Enhancements ===== */
 .container-title { font-size: 1.25rem; font-weight: 600; margin-bottom: 1rem; }
 .container-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
-.container-actions { display: flex; gap: 0.5rem; }
+.container-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .placeholder-text { color: var(--text-secondary); text-align: center; padding: 3rem 1rem; border: 2px dashed var(--border-color); border-radius: var(--border-radius); }
 .batch-editor-table { max-height: 70vh; overflow-y: auto; border: 1px solid var(--border-color); border-radius: var(--border-radius); }
 .batch-editor-row { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1rem; border-bottom: 1px solid var(--border-color); }
