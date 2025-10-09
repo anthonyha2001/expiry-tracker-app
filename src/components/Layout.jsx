@@ -1,12 +1,13 @@
 import React from 'react';
 import { NavLink, Outlet } from 'react-router-dom';
-import { LayoutDashboard, Database, HardDriveUpload, Settings } from 'lucide-react';
+import { LayoutDashboard, Database, HardDriveUpload, Settings, DollarSign, FileText } from 'lucide-react';
 import NotificationCenter from './NotificationCenter';
 
 const navItems = [
   { to: '/', label: 'Dashboard', icon: LayoutDashboard },
   { to: '/records', label: 'Records', icon: Database },
   { to: '/operations', label: 'Operations', icon: HardDriveUpload },
+
   { to: '/settings', label: 'Settings', icon: Settings },
 ];
 

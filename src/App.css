@@ -132,6 +132,8 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .modal-content { background: var(--bg-surface); padding: 1.5rem; border-radius: var(--border-radius); box-shadow: var(--shadow-md); width: 100%; max-width: 500px; }
 .modal-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border-color); }
 .modal-header h2 { font-size: 1.25rem; }
+.modal-header-actions { display: flex; align-items: center; gap: 0.5rem; }
+.modal-header-actions .button-secondary { padding: 0.5rem 1rem; font-size: 0.875rem; }
 .modal-close-button { background: none; border: none; cursor: pointer; color: var(--text-secondary); padding: 0.5rem; border-radius: 50%; display: flex; }
 .modal-close-button:hover { background-color: var(--bg-main); }
 .modal-tabs { display: flex; border-bottom: 1px solid var(--border-color); margin-bottom: 1.5rem; }
@@ -152,6 +154,8 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .item-list-table table { width: 100%; border-collapse: collapse; }
 .item-list-table th, .item-list-table td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border-color); }
 .item-list-table thead { position: sticky; top: 0; background-color: var(--bg-surface); }
+.dashboard-card.expired-card { background-color: var(--status-expired-bg); border-color: var(--status-expired-text); }
+.dashboard-card.expired-card .card-title, .dashboard-card.expired-card .card-count { color: var(--status-expired-text); }
 
 /* ===== 19. Notification Center ===== */
 .notification-center { position: relative; }
@@ -167,4 +171,25 @@ h1, h2, h3 { margin: 0; font-weight: 700; }
 .notification-date { font-size: 0.75rem; color: var(--text-secondary); }
 .mark-read-btn { background: none; border: 1px solid var(--brand-primary); color: var(--brand-primary); cursor: pointer; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; }
 .no-notifications { padding: 2rem; text-align: center; color: var(--text-secondary); }
+
+/* ===== 20. Pricing Page ===== */
+.pricing-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; align-items: flex-start; }
+@media (max-width: 1200px) { .pricing-grid { grid-template-columns: 1fr; } }
+.rule-editor { background-color: #F8FAFC; padding: 1.5rem; border-radius: var(--border-radius); border: 1px solid var(--border-color); }
+.rule-form { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1rem; }
+.rule-form .form-group { display: flex; flex-direction: column; }
+.rule-form label { font-size: 0.75rem; font-weight: 500; color: var(--text-secondary); margin-bottom: 0.25rem; }
+.rule-form select, .rule-form input { width: 100%; padding: 0.5rem; border: 1px solid var(--border-color); border-radius: var(--border-radius); }
+.rule-list { max-height: 200px; overflow-y: auto; }
+.rule-list-item { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem; border-radius: 4px; background-color: var(--bg-surface); margin-bottom: 0.5rem; font-size: 0.875rem; }
+.rule-delete-btn { background: none; border: none; color: var(--status-expired-text); cursor: pointer; padding: 0.25rem; }
+.pricing-table-controls { display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; }
+.vat-toggle { display: flex; align-items: center; gap: 0.5rem; font-weight: 500; }
+.pricing-table input[type="number"] { width: 80px; text-align: center; }
+.pricing-table .percent-input { display: flex; align-items: center; gap: 0.25rem; }
+.new-price-cell { font-weight: 700; color: var(--brand-primary); }
+.new-price-cell.margin-low { background-color: var(--status-near-expiry-bg); color: var(--status-near-expiry-text); }
+.new-price-cell.margin-loss { background-color: var(--status-expired-bg); color: var(--status-expired-text); }
+.pricing-item-details { display: flex; flex-direction: column; }
+.pricing-item-path { font-size: 0.75rem; color: #94A3B8; }
 
